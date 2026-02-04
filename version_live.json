@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.0.0",
   "notes": [
-        "• Added estimated time remaining of the backups."
+        "• v1.0.0: Initial release."
   ]
 }
